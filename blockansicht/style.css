@@ -1,0 +1,6 @@
+.block.grau,.block2.grau{font-size:13px;line-height:11px;padding-top:2px;padding-left:2px; }
+.block .pal{overflow:hidden;text-align:center;}
+.one{background:#eee;padding-top:1px;}
+.two{background:#ccc;padding-top:1px;}
+.block a,.block2 a {display:block; height:100%;color:#333;}.block a:hover,.block2 a:hover{text-decoration:none;}
+.buchstaben{bottom:-40px;}
